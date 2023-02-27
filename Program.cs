@@ -24,3 +24,8 @@ else
 {
     Console.WriteLine("Welcome Student!");
 }
+Console.WriteLine();
+Console.WriteLine();
+
+Console.WriteLine("Press ENTER to Exit");
+Console.ReadLine();
